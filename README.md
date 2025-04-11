@@ -1,5 +1,10 @@
 # 🎮 原神 × 俄罗斯方块：元素交织的幻想世界
 
+## 游戏截图
+![image](https://github.com/user-attachments/assets/fceb0402-37b3-406c-8382-a4f85534ff13)
+![image](https://github.com/user-attachments/assets/3a75480f-f8cc-4067-a54e-db9c1b26c2f2)
+![image](https://github.com/user-attachments/assets/b5ff4aa6-e730-4fe3-9a10-19eab58658b6)
+
 ## 🌈 创意概念
 ​**​「七元素」遇见「七方块」的奇妙碰撞​**​  
 原神中的7种元素（风/岩/雷/草/水/火/冰） × 俄罗斯方块的7种经典形状  
