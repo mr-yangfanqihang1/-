@@ -13,6 +13,7 @@ markdown
 IDE: Visual Studio 2022  
 图形库: EasyX 2022  
 用户模式
+
 📦 绿色免安装版支持：
 ✅ Windows 7+ 系统
 ❌ 无需额外编译器
@@ -22,21 +23,18 @@ IDE: Visual Studio 2022
 经典模式	传统俄罗斯方块玩法	
 ​​原神模式​​	专属BGM：精选BOSS战音乐🎵	
 动态背景：璃月/稻妻等场景壁纸🌄	
-元素方块：对应7种属性的特效💫	
+元素方块：对应7种属性的特效💫	 
+
 ⚡ 特色功能
 ​​元素反应系统​​
 相邻方块触发「超导/蒸发/扩散」等特效
 连续消除积累元素能量槽
 ​​角色技能彩蛋​​
-cpp
-// 示例代码：触发角色技能
-void activateSkill(ElementType type) {
-    playSFX("character_voice.wav");
-    showParticleEffect(type);
-}
+
 ​​原神主题UI​​
 采用游戏内同款字体《HYWenHei》
 按钮音效来自原神交互声效库
+
 📥 获取方式
 立即体验：下载v1.0安装包
 开发者指南：查看GitHub源码
